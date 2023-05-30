@@ -16,7 +16,7 @@ const client = new Client({
 
 const settings = {
    prefix: 't!',
-   token: 'MTEwOTQ0Mjg5NDM0NTAyNzYyNA.G2DyLQ.EZeXszbH7RCcfFINbz_WT05kEPTEEQxHKIc6wg'
+   token: 'BOT-TOKEN'
 };
 
 const queue = new Map();
